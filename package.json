@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-big-calendar": "0.14.0",
+    "moment": "2.10.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
